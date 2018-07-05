@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Review_GreenDAOUsingWithRx</string>
+    <string name="select_module">Chọn chủ đề</string>
+    <string name="hint_add_module">Enter new module name ...</string>
+    <string name="add_note">Add new note</string>
+    <string name="add_new_module">Add new module</string>
+</resources>
